@@ -1,0 +1,46 @@
+
+
+.one {
+	width:35px;
+	height:35px;
+	
+	background-color:#980808;
+	float:right;	
+	
+	
+	
+	
+}
+
+
+
+#container {
+
+	margin:auto;
+	
+	background-color:#D3D3D3;
+	
+}
+
+.clicked {
+	width:35px;
+	height:35px;
+	
+	background-color:white;	
+	border-width: 7px;
+	border-color:black;
+	
+	float:right;
+
+}
+
+#generate,#gradient,#clear,#fade{
+	
+	margin-left: 700px;
+	top:0;
+
+}
+
+
+
+
